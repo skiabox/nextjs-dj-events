@@ -13,7 +13,7 @@ import Modal from '@/components/Modal';
 import ImageUpload from '@/components/ImageUpload';
 
 import { API_URL } from '@/config/index';
-import styles from '@/styles//Form.module.css';
+import styles from '@/styles/Form.module.css';
 
 //get the event object and the token from the server side
 //this runs on the client

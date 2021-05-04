@@ -8,7 +8,7 @@ import Link from 'next/link';
 import Layout from '@/components/Layout';
 
 import { API_URL } from '@/config/index';
-import styles from '@/styles//Form.module.css';
+import styles from '@/styles/Form.module.css';
 
 //this code runs on the client
 export default function AddEventPage({ token }) {
